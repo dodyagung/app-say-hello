@@ -4,3 +4,5 @@ github.com/dodyagung/go-say-hello v1.0.1 h1:9IEH7tXzlqlc69b8skfsaxtvVO/7smATijAb
 github.com/dodyagung/go-say-hello v1.0.1/go.mod h1:BvvTJGtnC+7qlxzSZ/99F1G7g+siOhR9oZazjOB3sg4=
 github.com/dodyagung/go-say-hello v1.5.0 h1:TPGXCXF2dD+Nk3NFaqKIjNpcbV+nVa4M6HiNrnMM7dY=
 github.com/dodyagung/go-say-hello v1.5.0/go.mod h1:BvvTJGtnC+7qlxzSZ/99F1G7g+siOhR9oZazjOB3sg4=
+github.com/dodyagung/go-say-hello/v2 v2.0.0 h1:jvdcZs1FKH2QNKPgkNCX7+d1ehgBB6pSLxw1deNpq60=
+github.com/dodyagung/go-say-hello/v2 v2.0.0/go.mod h1:7AR5PR2qUIzldWKJTt5y6BdinNMt05o/OzGl6zBW9Vk=
